@@ -1,0 +1,110 @@
+Course,Sect,Title,X-List to,Cred,# of,Instructor,Room,Time,,,,,,,,,,,,,,,,,,,,
+CIS 150,01,Business Technology 1,--,3,22,Ms C Gaither,Z 335,"TTH 08:00-09:20",,,,,,,,,,,,,,,,,,,,
+CIS 150,02,Business Technology 1,--,3,22,Ms C Gaither,Z 335,"TTH 09:30-10:50",,,,,,,,,,,,,,,,,,,,
+CIS 150,03,Business Technology 1,--,3,25,Dr T Boulder,Online,Online,,,,,,,,,,,,,,,,,,,,
+CIS 150,1E,Business Technology 1,--,3,25,Mr M Beiter,Z 130,"MW 06:00-07:20",,,,,,,,,,,,,,,,,,,,
+CIS 170,01,PC OS/Internet,--,1,25,Mr D Marino,Z 335,"TTH 12:00-01:20",,,,,,,,,,,,,,,,,,,,
+CIS 170,02,PC OS/Internet,--,1,25,Mr D Marino,Z 130,"TTH 03:00-04:20",,,,,,,,,,,,,,,,,,,,
+CIS 171,01,PC Word Processing,--,1,25,Mr D Marino,Z 335,"TTH 12:00-01:20",,,,,,,,,,,,,,,,,,,,
+CIS 172,01,PC Electronic Spreadsheet,--,1,25,Mr D Marino,Z 335,"TTH 12:00-01:20",,,,,,,,,,,,,,,,,,,,
+CIS 172,02,PC Electronic Spreadsheet,--,1,25,Mr D Marino,Z 130,"TTH 03:00-04:20",,,,,,,,,,,,,,,,,,,,
+CIS 173,01,PC Database,--,1,25,Mr D Marino,Z 130,"TTH 03:00-04:20",,,,,,,,,,,,,,,,,,,,
+CIS 182,01,Object-Oriented Programming,--,2,20,Mr M Blair,Z 336,"WF 09:05-10:00",,,,,,,,,,,,,,,,,,,,
+CIS 183,01,Object-Oriented Programming Lab,--,1,20,Mr M Blair,Z 335,"M 03:00-06:00",,,,,,,,,,,,,,,,,,,,
+CIS 182,02,Object-Oriented Programming,--,2,20,Mr M Blair,Z 335,"WF 10:10-11:05",,,,,,,,,,,,,,,,,,,,
+CIS 183,02,Object-Oriented Programming Lab,--,1,20,Mr M Blair,Z335,"W03:00-06:00",,,,,,,,,,,,,,,,,,,,
+CIS 195,01,Principles of Systems,--,3,20,Dr T Vitolo,Z 355,"WF 12:10-01:30",,,,,,,,,,,,,,,,,,,,
+CIS 195,02,Principles of Systems,--,3,25,Mr B McIntyre,Z 130,"TTH 01:30-02:50",,,,,,,,,,,,,,,,,,,,
+CIS 195,03,Principles of Systems,--,3,25,Dr T Vitolo,Z 130,"MW 03:00-04:20",,,,,,,,,,,,,,,,,,,,
+CIS 220,01,Data Structures,GCIS 507_0B,3,20,Dr B Brinkman,Z 355,"MWF 10:10-11:05",,,,,,,,,,,,,,,,,,,,
+CIS 240,01,Web Management & Design,--,3,20,Mr J Cannell,Z 335,"TTH 03:00-04:20",,,,,,,,,,,,,,,,,,,,
+CIS 255,01,Database Management Systems,--,3,20,Dr B Brinkman,Z 335,"MWF 11:15-12:10",,,,,,,,,,,,,,,,,,,,
+CIS 270,1E,IT and Operations,--,3,20,Mr J Coffman,Z 355,"TTH 04:30-05:50",,,,,,,,,,,,,,,,,,,,
+CIS 286,01,Adv. Object-Oriented Techniques,GCIS 506_0B,3,20,Mr J Cannell,Z 355,"MWF 09:05-10:00",,,,,,,,,,,,,,,,,,,,
+CIS 302,01,Professional Seminar,--,1,15,Ms V Grande,Zurn classroom,"W 01:25-02:20",,,,,,,,,,,,,,,,,,,,
+CIS 303,01,Leadership Seminar,--,1,15,Ms V Grande,Zurn classroom,"F 01:25-02:20",,,,,,,,,,,,,,,,,,,,
+CIS 310,01,Software Design & Test,GCIS 510,3,20,Dr S Frezza,Z 336,"TTH 12:00-01:20",,,,,,,,,,,,,,,,,,,,
+CIS 315,01,Software Engineering,--,3,20,Dr S Frezza,Z 336,"TTH 09:30-10:50",,,,,,,,,,,,,,,,,,,,
+CIS 318,01,Software Architecture,GCIS 533,3,20,Dr M-H Tang,Zurn classroom,"TTH 12:00-01:20",,,,,,,,,,,,,,,,,,,,
+CIS 337,01,IS Architecture & Deployment,--,3,20,Dr S Sasi,BY-ARR,BY-ARR,,,,,,,,,,,,,,,,,,,,
+CIS 350,01,Requirements & Project Management,GCIS_514_0A,3,20,Dr S Frezza,Zurn Classroom,"MWF 10:10-11:05",,,,,,,,,,,,,,,,,,,,
+CIS 390,01,Distributed Programming,GCIS 531,3,20,Dr B Brinkman,Z 335,"MWF 09:05-10:00",,,,,,,,,,,,,,,,,,,,
+CIS 391,01,Advanced Programming: Android,GCIS 522,3,5,Dr Y Liu,Z 355,"TTH 01:30-02:50",,,,,,,,,,,,,,,,,,,,
+CIS 400,01,Internship,--,3,10,Dr M-H Tang,BY-ARR,BY-ARR,,,,,,,,,,,,,,,,,,,,
+CIS 445,01,Advanced Multimedia,GCIS 595,3,20,Mr J Cannell,Z 335,"TTH 01:30-02:50",,,,,,,,,,,,,,,,,,,,
+CIS 458,01,Senior Design 2 Lab,--,3,15,Dr S Sasi,Z 355,"TTH 03:00-04:20",,,,,,,,,,,,,,,,,,,,
+GCIS 500,0A,Applied Statistics,MATH_213_01,3,10,Mrs Revelt,Z 130,"TTH 08:00-09:20",,,,,,,,,,,,,,,,,,,,
+GCIS 506,0A,Object-Oriented Programming in Java,--,3,20,Mr J Cannell,Z 335,"WF 01:30-02:50",,,,,,,,,,,,,,,,,,,,
+GCIS 506,0B,Object-Oriented Programming in Java,CIS 286,3,20,Mr J Cannell,Z 355,"MWF 09:05-10:00",,,,,,,,,,,,,,,,,,,,
+GCIS 507,0A,Data Structures,--,3,20,Ms V Grande,Z 355,"MW 03:00-04:20",,,,,,,,,,,,,,,,,,,,
+GCIS 507,0B,Data Structures,CIS 220,3,1,Dr B Brinkman,Z 355,"MWF 10:10-11:05",,,,,,,,,,,,,,,,,,,,
+GCIS 508,0A,Database Management Systems,--,3,20,Mr M Blair,Z 355,"TTH 09:30-10:50",,,,,,,,,,,,,,,,,,,,
+GCIS 508,0B,Database Management Systems,--,3,20,Mr M Blair,Z 336,"TTH 01:30-02:50",,,,,,,,,,,,,,,,,,,,
+GCIS 510,0A,Software Engineering in UML,CIS 310,3,20,Dr S Frezza,Z 336,"TTH 12:00-01:20",,,,,,,,,,,,,,,,,,,,
+GCIS 512,0A,Object-Oriented Modeling,--,3,20,Ms V Grande,Z 336,"MW 04:30-05:50",,,,,,,,,,,,,,,,,,,,
+GCIS 514,0A,Requirements & Project Management,CIS 350,3,20,Dr S Frezza,Zurn Classroom,"MWF 10:10-11:05",,,,,,,,,,,,,,,,,,,,
+GCIS 514,0B,Requirements & Project Management,--,3,20,Ms V Grande,Zurn Classroom,"TTH 12:00-01:20",,,,,,,,,,,,,,,,,,,,
+GCIS 516,0A,Data Centric Concepts and Methods,--,3,20,Mr M Blair,Z 335,"TTH 04:30-05:50",,,,,,,,,,,,,,,,,,,,
+GCIS 522,0A,Advanced Programming: Android,CIS 391,3,20,Dr Y Liu,Z 355,"TTH 01:30-02:50",,,,,,,,,,,,,,,,,,,,
+GCIS 523,0A,Statistical Computing,--,3,20,Dr Y Liu,Z 355,"MW 06:00-07:20",,,,,,,,,,,,,,,,,,,,
+GCIS 531,0A,Distributed Programming,CIS 390,3,20,Dr B Brinkman,Z 335,"MWF 09:05-10:00",,,,,,,,,,,,,,,,,,,,
+GCIS 533,0A,Software Patterns and Architecture,CIS 318,3,20,Dr M-H Tang,Zurn classroom,"TTH 12:00-01:20",,,,,,,,,,,,,,,,,,,,
+GCIS 544,0A,Data Mining Concepts and Techniques,--,3,20,Dr S Sasi,Z 336,"MW 03:00-04:20",,,,,,,,,,,,,,,,,,,,
+GCIS 595,0A,Advanced Multimedia,CIS 445,3,20,Mr J Cannell,Z 335,"TTH 01:30-02:50",,,,,,,,,,,,,,,,,,,,
+GCIS 605,0A,Scholarship Seminar,--,1,15,Dr Y Liu,Zurn classroom,"WF 12:10-01:30",,,,,,,,,,,,,,,,,,,,
+GCIS 644,0A,Knowledge-Based Systems,--,3,20,Dr T Vitolo,Z 336,"TTH 04:30-05:50",,,,,,,,,,,,,,,,,,,,
+GCIS 695,0A,Independent Study,--,3,1,Dr S Sasi,BY-ARR,BY-ARR,,,,,,,,,,,,,,,,,,,,
+GCIS 697,0A,Directed Project,,1,4,Dr M-H Tang,BY-ARR,BY-ARR,,,,,,,,,,,,,,,,,,,,
+GCIS 698,0A,Directed Research,--,3,4,Dr B Brinkman,BY-ARR,"F 01:30-02:30",,,,,,,,,,,,,,,,,,,,
+GCIS 698,0B,Directed Research,--,3,4,Mr J Cannell,BY-ARR,"F 03:00-04:30",,,,,,,,,,,,,,,,,,,,
+GCIS 698,0C,Directed Research,--,3,4,Dr S Frezza,BY-ARR,"F 01:30-04:30",,,,,,,,,,,,,,,,,,,,
+GCIS 698,0D,Directed Research,--,3,4,Dr Y Liu,BY-ARR,"F 01:30-04:30",,,,,,,,,,,,,,,,,,,,
+GCIS 698,0E,Directed Research,--,3,4,Dr S Sasi,BY-ARR,"F 01:30-04:30",,,,,,,,,,,,,,,,,,,,
+GCIS 698,0F,Directed Research,--,3,4,Dr M-H Tang,BY-ARR,"F 01:30-04:30",,,,,,,,,,,,,,,,,,,,
+GCIS 698,0G,Directed Research,--,3,4,Dr T Vitolo,BY-ARR,"F 01:30-02:30",,,,,,,,,,,,,,,,,,,,
+GCIS 698,0H,Directed Research,--,3,4,Mr M Blair,BY-ARR,"F 01:30-04:30",,,,,,,,,,,,,,,,,,,,
+GCIS 799,0A,Thesis,--,6,1,Dr Y Liu,BY-ARR,BY-ARR,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,, ,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,

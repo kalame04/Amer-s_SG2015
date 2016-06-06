@@ -1,0 +1,68 @@
+COURSE #,TITLE/START DATE,CAPACITY,# OF STUDENTS,STATUS,INSTRUCTOR,FEE,Min Cred,Max Cred,COREQ CRS,XLIST CRS,Section,Start Time,End Time,Meeting Days,Bldg,Room
+CIS_150_01,Business Technology 1,22,18,Open,Ms C Gaither,$100,3.00,0.00,,,01,08:00AM,09:20AM,T TH,Z,335
+CIS_150_02,Business Technology 1,22,22,Clsd,Ms C Gaither,$100,3.00,0.00,,,02,09:30AM,10:50AM,T TH,Z,335
+CIS_150_2E,Business Technology 1,25,13,Open,Mr M Beiter,$100,3.00,0.00,,,2E,06:00PM,07:20PM,M W,Z,130
+CIS_150_NU,Business Technology 1,25,27,Clsd,Dr T Boulder,$100,3.00,0.00,,,NU,,,,ON,ONLINE
+CIS_170_01,PC OS/Internet 01/12 - 02/10,25,17,Open,Mr D Marino,$33,1.00,0.00,,,01,12:00PM,01:20PM,T TH,Z,335
+CIS_170_02,PC OS/Internet 01/12 - 02/10,25,10,Open,Mr D Marino,$33,1.00,0.00,,,02,03:00PM,04:20PM,T TH,Z,130
+CIS_171_01,Word Processing 02/11 - 03/18,25,19,Open,Mr D Marino,$33,1.00,0.00,,,01,12:00PM,01:20PM,T TH,Z,335
+CIS_172_01,Electronic Spreadsht 03/21 - 04/29,25,15,Open,Mr D Marino,$33,1.00,0.00,,,01,12:00PM,01:20PM,T TH,Z,335
+CIS_172_02,Electronic Spreadsht 02/11 - 03/18,25,9,Open,Mr D Marino,$33,1.00,0.00,,,02,03:00PM,04:20PM,T TH,Z,130
+CIS_173_01,Database 03/21 - 04/29,25,8,Open,Mr D Marino,$33,1.00,0.00,,,01,03:00PM,04:20PM,T TH,Z,130
+CIS_182_01,Object Orient Prog,20,11,Open,Mr M Blair,,2.00,0.00,,,01,09:05AM,10:00AM,W F,Z,336
+CIS_182_02,Object Orient Prog,20,16,Open,Mr M Blair,,2.00,0.00,,,02,10:10AM,11:05AM,W F,Z,335
+CIS_183_01,Object Orient Prog Lab,20,11,Open,Mr M Blair,$194,1.00,0.00,,,01,03:00PM,06:00PM,M,Z,335
+CIS_183_02,Object Orient Prog Lab,20,16,Open,Mr M Blair,$194,1.00,0.00,,,02,03:00PM,06:00PM,W,Z,335
+CIS_195_01,Prin of Systems,20,16,Open,Dr T Vitolo,$105,3.00,0.00,,,01,12:10PM,01:30PM,W F,Z,355
+CIS_195_02,Prin of Systems,25,25,Clsd,Mr B McIntyre,$105,3.00,0.00,,,02,01:30PM,02:50PM,M W,Z,130
+CIS_195_03,Prin of Systems,30,8,Open,Dr T Vitolo,$105,3.00,0.00,,,03,03:00PM,04:20PM,M W,Z,130
+CIS_220_01,Data Struct & Algorithms,20,16,Open,Dr B Brinkman,$105,3.00,0.00,,"GCIS_507_0B,CIS_220_01",01,10:10AM,11:05AM,M W F,Z,355
+CIS_240_01,Web Mgt Design,20,19,Open,Mr J Cannell,$105,3.00,0.00,,,01,03:00PM,04:20PM,T TH,Z,335
+CIS_255_01,Database Mgmt Systems,20,21,Clsd,Dr B Brinkman,$105,3.00,0.00,,,01,11:15AM,12:10PM,M W F,Z,335
+CIS_270_1E,Info Tech & Oper,20,13,Open,Mr J Coffman,$105,3.00,0.00,,,1E,04:30PM,05:50PM,T TH,Z,355
+CIS_286_01,Adv Obj-Oriented Tech,20,12,Open,Mr J Cannell,$105,3.00,0.00,,"CIS_286_01,GCIS_506_0B",01,09:05AM,10:00AM,M W F,Z,355
+CIS_302_01,CIS Professional Seminar,15,13,Open,Ms V Castro,,1.00,0.00,,,01,01:25PM,02:20PM,W,Z,447
+CIS_303_01,Leadership Seminar,15,10,Open,Ms V Castro,,1.00,0.00,,,01,01:25PM,02:20PM,F,Z,447
+CIS_310_01,Software Dsgn & Test,20,13,Open,Dr S Frezza,,3.00,0.00,,"CIS_310_01,GCIS_510_0A",01,12:00PM,01:20PM,T TH,Z,336
+CIS_315_01,Software Engineering,20,13,Open,Dr S Frezza,,3.00,0.00,,,01,09:30AM,10:50AM,T TH,Z,336
+CIS_318_01,Software Architecture,20,7,Open,Dr M Tang,,3.00,0.00,,"GCIS_533_0A,CIS_318_01",01,12:00PM,01:20PM,T TH,Z,447
+CIS_337_1E,IS Architecture&Depl,20,2,Open,Dr S Sasi,,3.00,0.00,,,1E,,,,BY-,ARR
+CIS_350_01,Rqmts & Project Mgmt,20,5,Open,Dr S Frezza,,3.00,0.00,,"CIS_350_01,GCIS_514_0A",01,10:10AM,11:05AM,M W F,Z,447
+CIS_390_01,Distributed Prog,20,15,Clsd,Dr B Brinkman,$194,3.00,0.00,,"CIS_390_01,GCIS_531_0A",01,09:05AM,10:00AM,M W F,Z,335
+CIS_391_01,Advanced Prog: Android,5,2,Open,Dr Y Liu,$194,3.00,0.00,,"CIS_391_01,GCIS_522_0A",01,01:30PM,02:50PM,T TH,Z,355
+CIS_400_01,Internship,10,1,Open,Dr M Tang,,3.00,0.00,,,01,,,,BY-,ARR
+CIS_445_01,Advanced Multi-Media,20,4,Open,Mr J Cannell,,3.00,0.00,,"CIS_445_01,GCIS_595_0A",01,01:30PM,02:50PM,T TH,Z,335
+CIS_458_01,Senior Design 2 Lab,15,12,Open,Dr S Sasi,$105,3.00,0.00,,,01,03:00PM,04:20PM,T TH,Z,355
+GCIS_500_0A,Applied Statistics,10,9,Open,Ms J Revelt,,3.00,0.00,,"MATH_213_01,GCIS_500_0A",0A,08:00AM,09:20AM,T TH,Z,130
+GCIS_506_0A,Obj Orient Prog Java,20,27,Clsd,Mr J Cannell,$105,3.00,0.00,,,0A,01:30PM,02:50PM,W F,Z,335
+GCIS_506_0B,Obj Orient Prog Java,20,0,Open,Mr J Cannell,$105,3.00,0.00,,"CIS_286_01,GCIS_506_0B",0B,09:05AM,10:00AM,M W F,Z,355
+GCIS_507_0A,Data Structures,20,11,Open,Ms V Castro,$105,3.00,0.00,,,0A,03:00PM,04:20PM,M W,Z,355
+GCIS_507_0B,Data Structures,1,2,Clsd,Dr B Brinkman,$105,3.00,0.00,,"GCIS_507_0B,CIS_220_01",0B,10:10AM,11:05AM,M W F,Z,355
+GCIS_508_0A,Database Mgmt Syst,20,19,Open,Mr M Blair,$105,3.00,0.00,,,0A,09:30AM,10:50AM,T TH,Z,355
+GCIS_508_0B,Database Mgmt Syst,20,12,Open,Mr M Blair,$105,3.00,0.00,,,0B,01:30PM,02:50PM,T TH,Z,336
+GCIS_510_0A,Software Engr UML,20,2,Open,Dr S Frezza,,3.00,0.00,,"CIS_310_01,GCIS_510_0A",0A,12:00PM,01:20PM,T TH,Z,336
+GCIS_512_0A,Object Oriented Modl,25,19,Open,"Ms V Castro,Dr S Frezza",,3.00,0.00,,,0A,04:30PM,05:50PM,M W,Z,336
+GCIS_514_0A,Rqmts & Project Mgmt,20,6,Open,Dr S Frezza,,3.00,0.00,,"CIS_350_01,GCIS_514_0A",0A,10:10AM,11:05AM,M W F,Z,447
+GCIS_514_0B,Rqmts & Project Mgmt,20,15,Open,Ms V Castro,,3.00,0.00,,,0B,12:00PM,01:20PM,T TH,NL,A
+GCIS_516_0A,Data Centric Cncpt&meth,22,13,Open,Mr M Blair,$194,3.00,0.00,,,0A,04:30PM,05:50PM,T TH,Z,335
+GCIS_522_0A,Adv Prog: Java Mobile,20,14,Open,Dr Y Liu,$194,3.00,0.00,,"CIS_391_01,GCIS_522_0A",0A,01:30PM,02:50PM,T TH,Z,355
+GCIS_523_0A,Statistical Computing,20,22,Clsd,Dr Y Liu,$194,3.00,0.00,,,0A,06:00PM,07:20PM,M W,Z,355
+GCIS_531_0A,Distributed Prog,20,7,Clsd,Dr B Brinkman,$194,3.00,0.00,,"CIS_390_01,GCIS_531_0A",0A,09:05AM,10:00AM,M W F,Z,335
+GCIS_533_0A,Sftwr Pattrns & Architct,20,7,Open,Dr M Tang,,3.00,0.00,,"GCIS_533_0A,CIS_318_01",0A,12:00PM,01:20PM,T TH,Z,447
+GCIS_533_OA,Sftwr Pattrns & Architct,20,0,Cncl,,,3.00,0.00,,,OA,,,,,
+GCIS_544_0A,Data Mind Cncpt & Tech,20,21,Clsd,Dr S Sasi,$194,3.00,0.00,,,0A,03:00PM,04:20PM,M W,Z,336
+GCIS_595_0A,Advanced Multimedia,20,14,Open,Mr J Cannell,,3.00,0.00,,"CIS_445_01,GCIS_595_0A",0A,01:30PM,02:50PM,T TH,Z,335
+GCIS_605_0A,Scholarship Seminar,15,13,Open,Dr Y Liu,,3.00,0.00,,,0A,12:10PM,01:30PM,W F,PC,1219
+GCIS_644_0A,Knowldg-Based Systm,20,19,Open,Dr T Vitolo,$194,3.00,0.00,,,0A,04:30PM,05:50PM,T TH,Z,130
+GCIS_695_0A,Independent Study,1,1,Clsd,Dr S Sasi,,3.00,0.00,,,0A,,,,BY-,ARR
+GCIS_697_0A,Directed Project,4,11,Clsd,Dr M Tang,,1.00,0.00,,,0A,,,,BY-,ARR
+GCIS_698_0A,Directed Research,4,0,Cncl,,,3.00,0.00,,,0A,,,,,
+GCIS_698_0B,Directed Research,4,1,Open,Mr J Cannell,,3.00,0.00,,,0B,03:00PM,04:30PM,F,BY-,ARR
+GCIS_698_0C,Directed Research,4,4,Clsd,Dr S Frezza,,3.00,0.00,,,0C,01:30PM,04:30PM,F,BY-,ARR
+GCIS_698_0D,Directed Research,4,2,Open,Dr Y Liu,,3.00,0.00,,,0D,01:30PM,04:30PM,F,BY-,ARR
+GCIS_698_0E,Directed Research,4,1,Open,Dr S Sasi,,3.00,0.00,,,0E,01:30PM,04:30PM,F,BY-,ARR
+GCIS_698_0F,Directed Research,4,0,Cncl,,,3.00,0.00,,,0F,,,,,
+GCIS_698_0G,Directed Research,4,1,Open,Dr T Vitolo,,3.00,0.00,,,0G,01:30PM,02:30PM,F,BY-,ARR
+GCIS_698_0H,Directed Research,4,2,Open,Mr M Blair,,3.00,0.00,,,0H,01:30PM,04:30PM,F,BY-,ARR
+GCIS_799_0A,Thesis,1,1,Clsd,Dr Y Liu,,6.00,0.00,,,0A,,,,BY-,ARR
+,,,,,,,,,,,,,,,,

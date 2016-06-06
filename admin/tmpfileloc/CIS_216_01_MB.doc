@@ -1,0 +1,223 @@
+			 <html xmlns:v="urn:schemas-microsoft-com:vml"
+			xmlns:o="urn:schemas-microsoft-com:office:office"
+			xmlns:w="urn:schemas-microsoft-com:office:word"
+			xmlns="http://www.w3.org/TR/REC-html40">
+			
+			<head>
+			<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+			<meta name=ProgId content=Word.Document>
+			<meta name=Generator content="Microsoft Word 9">
+			<meta name=Originator content="Microsoft Word 9">
+			<!--[if !mso]>
+			<style>
+			v\:* {behavior:url(#default#VML);}
+			o\:* {behavior:url(#default#VML);}
+			w\:* {behavior:url(#default#VML);}
+			.shape {behavior:url(#default#VML);}
+			</style>
+			<![endif]-->
+			<title></title>
+			<!--[if gte mso 9]><xml>
+			 <w:WordDocument>
+			  <w:View>Print</w:View>
+			  <w:DoNotHyphenateCaps/>
+			  <w:PunctuationKerning/>
+			  <w:DrawingGridHorizontalSpacing>9.35 pt</w:DrawingGridHorizontalSpacing>
+			  <w:DrawingGridVerticalSpacing>9.35 pt</w:DrawingGridVerticalSpacing>
+			 </w:WordDocument>
+			</xml><![endif]-->
+			<style>
+			<!--
+			 /* Font Definitions */
+			@font-face
+				{font-family:Verdana;
+				panose-1:2 11 6 4 3 5 4 4 2 4;
+				mso-font-charset:0;
+				mso-generic-font-family:swiss;
+				mso-font-pitch:variable;
+				mso-font-signature:536871559 0 0 0 415 0;}
+			 /* Style Definitions */
+			p.MsoNormal, li.MsoNormal, div.MsoNormal
+				{mso-style-parent:"";
+				margin:0in;
+				margin-bottom:.0001pt;
+				mso-pagination:widow-orphan;
+				font-size:7.5pt;
+			        mso-bidi-font-size:8.0pt;
+				font-family:"Verdana";
+				mso-fareast-font-family:"Verdana";}
+			p.small
+				{mso-style-parent:"";
+				margin:0in;
+				margin-bottom:.0001pt;
+				mso-pagination:widow-orphan;
+				font-size:1.0pt;
+			        mso-bidi-font-size:1.0pt;
+				font-family:"Verdana";
+				mso-fareast-font-family:"Verdana";}
+			@page Section1
+				{size:8.5in 11.0in;
+				margin:1.0in 1.25in 1.0in 1.25in;
+				mso-header-margin:.5in;
+				mso-footer-margin:.5in;
+				mso-paper-source:0;}
+			div.Section1
+				{page:Section1;}
+			-->
+			</style>
+			<!--[if gte mso 9]><xml>
+			 <o:shapedefaults v:ext="edit" spidmax="1032">
+			  <o:colormenu v:ext="edit" strokecolor="none"/>
+			 </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+			 <o:shapelayout v:ext="edit">
+			  <o:idmap v:ext="edit" data="1"/>
+			 </o:shapelayout></xml><![endif]-->
+			 
+			</head>
+			<body><table width='100%'><tr>
+						 <td><h3><b>Gannon University</b></h3></td>
+						<td style='text-align:right'><h3><b>Department of Computer and Information Science</b></h3></td>
+					   </tr> 
+					   </table>
+					<table style='width:100%' border='1'>
+				<tr>
+				<td>
+				
+					   <table><tr><td><b>Instructor:</b></td>
+						<td>Mr MarkBlair</td></tr><tr>
+						<td><b>Office:</b></td>
+						<td>Z309</td>
+						</tr>
+						<tr>
+						<td><b>Phone:</b></td>
+						<td></td>
+						</tr>
+						<tr>
+						<td><b>Email:</b></td>
+						<td>Blair012@gannon.edu</td>
+						</tr>
+					   </table>
+					   </td>
+					   <td>
+					   <table>
+						<tr>
+						<td colspan='2'><b>Office Hours</b></td>
+						</tr></table></td>
+        					 </tr>
+        					 </table>
+        	<table border='1'>
+	        <tr>
+            	<td>Course Title:</td>
+                <td>Problem Solving with Object-Oriented Programming</td></tr>
+        	<tr>
+            	<td>Credit Hours:</td>
+                <td>3 credit(s)</td>
+             </tr><tr>
+            	<td>Semester:</td>
+                <td>Fall</td>
+            </tr>
+         	<tr>
+            	<td>Class Location:</td>
+                <td></td>
+            </tr>
+             <tr>
+            	<td>Class Time:</td>
+                
+                <td> 01:00 AM
+               <b> to</b>01:00 AM</option>
+                   
+                   </td>
+            </tr> <tr>
+            		<td>Course Description:</td>
+                    
+            		<td><p>The course is aimed at developing advanced object-oriented programming skills. Assuming a<br />
+background in the basic syntax of C++, full-fledged abstract data type implementation and<br />
+object-oriented programming style are explored.</p>
+</td></tr><tr>
+            		<td>Course Learning Objectives:</td>
+                    
+                    <td>
+                    The student will be able to<br>	
+                    </td>
+            </tr><tr>
+            		<td>Co-requisites:</td>
+            		
+            		<td></td>
+            </tr>
+           	<tr>
+            		<td>Prerequisites:</td>
+            		
+            		<td>CIS 214, CIS 215, or equivalent</td></tr><tr>
+         			<td>Resources:</td>
+            		<td>       </td>
+            </tr>
+			<tr>	<td>Required Textbooks:</td>
+            		
+            		<td>
+          		    </td>
+            </tr> <tr>
+            		<td>Course Assessment Method:</td>
+            		<td><div>
+ 	             		<table align='left' id='camtable' style='text-align:left;' border='1' >  <tr>
+                                        <td>Assignments:</td>
+                                        <td width='100%'>Students will periodically be assigned homework assignments related to software design principles, patterns and architecture, Due dates will be announced in class.
+                                     </td>
+                                  </tr>  <tr>
+                                        <td>Examinations/Quizzes:</td>
+                                        <td width='100%'>Students will periodically take in-class examinations covering knowledge and application of software design principles,design patterns,architecture and related topics from the assigned readings,course notes,and homework.
+                                     </td>
+                                  </tr>  <tr>
+                                        <td>Project:</td>
+                                        <td width='100%'>The project shall be staffed by individual student who will indentify design patterns/architecture present in open source software. Recommendation for areas of improvement using design patterns with rationale and implementation can be parts of the project.
+                                     </td>
+                                  </tr> </table>
+ 						
+                        </div>
+                    </td>
+            </tr> <tr>
+            		<td>Assessment Method Mappings:</td>
+            		
+            		<td><table align='left' border='1' style='text-align:center'>
+                           	<tr>
+                            	<td rowspan='2'>ASSESSMENT METHODS</td>
+                                        	<td colspan=3 align='center'>
+                                            	OBJECTIVES
+                          		          </td>
+                            </tr>
+                            <tr><td>1</td><td>2</td><td>3</td></tr>	
+                            <tr>
+                            	<td>Assignments:</td><td></td><td></td><td></td></tr>	
+                            <tr>
+                            	<td>Examinations/Quizzes:</td><td></td><td></td><td></td></tr>	
+                            <tr>
+                            	<td>Project:</td><td></td><td></td><td></td></tr><tr>
+                                <td>Department-Wide Outcomes</td>
+							</tr> 
+                           <tr>
+                                <td>Program-Specific Outcomes</td></tr> 
+                           </table>
+	                </td>
+            </tr>
+			  <tr>      
+    	   	<td>Grading Policy:</td>
+           	<td style='text-align:center'>
+ 	                </td>
+            </tr>
+			 <tr>
+           
+            	<td>Course Policies:</td>
+            	
+           		<td></td></tr>
+					<tr>
+        		    	<td>Attendance Policies:</td>
+						<td></td></tr>
+					 <tr>
+            
+            	<td>Academic Integrity:</td>
+            	
+           		<td></td></tr>
+					<tr>
+            	<td>Course Calendar with Topics:</td>
+            	
+           		<td></td>
+            </tr></table></body></html>

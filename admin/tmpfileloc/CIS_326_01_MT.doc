@@ -1,0 +1,470 @@
+			 <html xmlns:v="urn:schemas-microsoft-com:vml"
+			xmlns:o="urn:schemas-microsoft-com:office:office"
+			xmlns:w="urn:schemas-microsoft-com:office:word"
+			xmlns="http://www.w3.org/TR/REC-html40">
+			
+			<head>
+			<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+			<meta name=ProgId content=Word.Document>
+			<meta name=Generator content="Microsoft Word 9">
+			<meta name=Originator content="Microsoft Word 9">
+			<!--[if !mso]>
+			<style>
+			v\:* {behavior:url(#default#VML);}
+			o\:* {behavior:url(#default#VML);}
+			w\:* {behavior:url(#default#VML);}
+			.shape {behavior:url(#default#VML);}
+			</style>
+			<![endif]-->
+			<title></title>
+			<!--[if gte mso 9]><xml>
+			 <w:WordDocument>
+			  <w:View>Print</w:View>
+			  <w:DoNotHyphenateCaps/>
+			  <w:PunctuationKerning/>
+			  <w:DrawingGridHorizontalSpacing>9.35 pt</w:DrawingGridHorizontalSpacing>
+			  <w:DrawingGridVerticalSpacing>9.35 pt</w:DrawingGridVerticalSpacing>
+			 </w:WordDocument>
+			</xml><![endif]-->
+			<style>
+			<!--
+			 /* Font Definitions */
+			@font-face
+				{font-family:Verdana;
+				panose-1:2 11 6 4 3 5 4 4 2 4;
+				mso-font-charset:0;
+				mso-generic-font-family:swiss;
+				mso-font-pitch:variable;
+				mso-font-signature:536871559 0 0 0 415 0;}
+			 /* Style Definitions */
+			p.MsoNormal, li.MsoNormal, div.MsoNormal
+				{mso-style-parent:"";
+				margin:0in;
+				margin-bottom:.0001pt;
+				mso-pagination:widow-orphan;
+				font-size:7.5pt;
+			        mso-bidi-font-size:8.0pt;
+				font-family:"Verdana";
+				mso-fareast-font-family:"Verdana";}
+			p.small
+				{mso-style-parent:"";
+				margin:0in;
+				margin-bottom:.0001pt;
+				mso-pagination:widow-orphan;
+				font-size:1.0pt;
+			        mso-bidi-font-size:1.0pt;
+				font-family:"Verdana";
+				mso-fareast-font-family:"Verdana";}
+			@page Section1
+				{size:8.5in 11.0in;
+				margin:1.0in 1.25in 1.0in 1.25in;
+				mso-header-margin:.5in;
+				mso-footer-margin:.5in;
+				mso-paper-source:0;}
+			div.Section1
+				{page:Section1;}
+			-->
+			</style>
+			<!--[if gte mso 9]><xml>
+			 <o:shapedefaults v:ext="edit" spidmax="1032">
+			  <o:colormenu v:ext="edit" strokecolor="none"/>
+			 </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+			 <o:shapelayout v:ext="edit">
+			  <o:idmap v:ext="edit" data="1"/>
+			 </o:shapelayout></xml><![endif]-->
+			 
+			</head>
+			<body><table width='100%'><tr>
+						 <td><h3><b>Gannon University</b></h3></td>
+						<td style='text-align:right'><h3><b>Department of Computer and Information Science</b></h3></td>
+					   </tr> 
+					   </table>
+					<table style='width:100%' border='1'>
+				<tr>
+				<td>
+				
+					   <table><tr><td><b>Instructor:</b></td>
+						<td>Dr Mei-HueiTang</td></tr><tr>
+						<td><b>Office:</b></td>
+						<td>Z313</td>
+						</tr>
+						<tr>
+						<td><b>Phone:</b></td>
+						<td>X5393</td>
+						</tr>
+						<tr>
+						<td><b>Email:</b></td>
+						<td>Tang002@gannon.edu</td>
+						</tr>
+					   </table>
+					   </td>
+					   <td>
+					   <table>
+						<tr>
+						<td colspan='2'><b>Office Hours</b></td>
+						</tr></table></td>
+        					 </tr>
+        					 </table>
+        	<table border='1'>
+	        <tr>
+            	<td>Course Title:</td>
+                <td>Formal Methods in Software Development</td></tr>
+        	<tr>
+            	<td>Credit Hours:</td>
+                <td>3 credit(s)</td>
+             </tr><tr>
+            	<td>Semester:</td>
+                <td>Fall</td>
+            </tr>
+         	<tr>
+            	<td>Class Location:</td>
+                <td>Z101</td>
+            </tr>
+             <tr>
+            	<td>Class Time:</td>
+                
+                <td>T  09:30 AM
+               <b> to</b>10:50 AM</option>
+                   
+                   </td>
+            </tr> <tr>
+            		<td>Course Description:</td>
+                    
+            		<td><p>Focusing on the issues and techniques needed to apply formal specification methods to the development of software, the course uses mathematical and logical formalism to develop a<br />
+precise statement of what software is to do.</p>
+</td></tr><tr>
+            		<td>Course Learning Objectives:</td>
+                    
+                    <td>
+                    The student will be able to<br><br><br>	
+                    </td>
+            </tr><tr>
+            		<td>Co-requisites:</td>
+            		
+            		<td></td>
+            </tr>
+           	<tr>
+            		<td>Prerequisites:</td>
+            		
+            		<td>CIS 216 and MATH 223</td></tr><tr>
+         			<td>Resources:</td>
+            		<td><table border="1" cellpadding="1" cellspacing="1" style="height:29px; width:500px">
+	<tbody>
+		<tr>
+			<td>
+			<ul>
+				<li>Course Website</li>
+			</ul>
+			</td>
+			<td>https://gannon.blackboard.com</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+       </td>
+            </tr>
+			<tr>	<td>Required Textbooks:</td>
+            		
+            		<td><ul>
+	<li>B. Potter, J. Sinclair and D. Till, <strong><em>An Introduction to Formal Specification and Z</em></strong>, <strong>2</strong>nd edition, Pearson Education, Prentice Hall International Series, ISBN: 0-13-242207-7</li>
+</ul>
+
+          		    </td>
+            </tr> <tr>
+            		<td>Course Assessment Method:</td>
+            		<td><div>
+ 	             		<table align='left' id='camtable' style='text-align:left;' border='1' >  <tr>
+                                        <td>Assignments:</td>
+                                        <td width='100%'>Students will periodically be assigned homework assignments related to Z
+                                     </td>
+                                  </tr>  <tr>
+                                        <td>Examinations/Quizzes:</td>
+                                        <td width='100%'>Students will periodically take in-class examinations covering knowledge and application of Z
+                                     </td>
+                                  </tr>  <tr>
+                                        <td>Project:</td>
+                                        <td width='100%'>The project shall be staffed by individual student who will identify and document a software project using Z
+                                     </td>
+                                  </tr> </table>
+ 						
+                        </div>
+                    </td>
+            </tr> <tr>
+            		<td>Assessment Method Mappings:</td>
+            		
+            		<td><table align='left' border='1' style='text-align:center'>
+                           	<tr>
+                            	<td rowspan='2'>ASSESSMENT METHODS</td>
+                                        	<td colspan=4 align='center'>
+                                            	OBJECTIVES
+                          		          </td>
+                            </tr>
+                            <tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>	
+                            <tr>
+                            	<td>Assignments:</td><td></td><td>X</td><td></td><td></td></tr>	
+                            <tr>
+                            	<td>Examinations/Quizzes:</td><td>X</td><td></td><td></td><td></td></tr>	
+                            <tr>
+                            	<td>Project:</td><td>X</td><td>X</td><td></td><td></td></tr><tr>
+                                <td>Department-Wide Outcomes</td><td></td><td></td>
+							</tr> 
+                           <tr>
+                                <td>Program-Specific Outcomes</td><td>SE-2</td><td></td></tr> 
+                           </table>
+	                </td>
+            </tr>
+			  <tr>      
+    	   	<td>Grading Policy:</td>
+           	<td style='text-align:center'><table border='1'>
+	<tbody>
+		<tr>
+			<td style="vertical-align:top">
+			<table border="1">
+				<tbody>
+					<tr>
+						<th>Grade Componenent</th>
+						<th>Weight</th>
+					</tr>
+					<tr>
+						<th>Assignments:</th>
+						<th>25%</th>
+					</tr>
+					<tr>
+						<th>Examinations/Quizzes:</th>
+						<th>50%</th>
+					</tr>
+					<tr>
+						<th>Project:</th>
+						<th>25%</th>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td><!-- Grading criteria-->
+			<table border="1">
+				<tbody>
+					<tr>
+						<th>Course Score</th>
+						<th>Undergraduate Grade</th>
+					</tr>
+					<tr>
+						<td>&gt;=98</td>
+						<td>A+</td>
+					</tr>
+					<tr>
+						<td>93-97</td>
+						<td>A</td>
+					</tr>
+					<tr>
+						<td>90-92</td>
+						<td>A-</td>
+					</tr>
+					<tr>
+						<td>87-89</td>
+						<td>B+</td>
+					</tr>
+					<tr>
+						<td>84-86</td>
+						<td>B</td>
+					</tr>
+					<tr>
+						<td>80-83</td>
+						<td>B-</td>
+					</tr>
+					<tr>
+						<td>75-79</td>
+						<td>C+</td>
+					</tr>
+					<tr>
+						<td>70-74</td>
+						<td>C</td>
+					</tr>
+					<tr>
+						<td>65-69</td>
+						<td>C-</td>
+					</tr>
+					<tr>
+						<td>60-64</td>
+						<td>D</td>
+					</tr>
+					<tr>
+						<td>60</td>
+						<td>F</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+ 	                </td>
+            </tr>
+			 <tr>
+           
+            	<td>Course Policies:</td>
+            	
+           		<td><p><strong>Preparation -</strong></p>
+
+<ul>
+	<li>Material should be read prior to class in order to facilitate learning.</li>
+	<li>You are responsible for the contents of the textbook and any supplemental materials unless the material is waived by the instructor.</li>
+	<li>Do not procrastinate on doing the assignments. Mishaps, problems, and unavailability of the equipment do happen.</li>
+	<li>Ask a question when something is not understood in the class or from the reading.</li>
+</ul>
+
+<p><strong>Lecture -</strong></p>
+
+<ul>
+	<li>Topics will highlight portions of the readings.</li>
+	<li>Supplemental materials and notes may be given.</li>
+	<li>You are responsible for required readings even if the material is not directly covered during lecture, unless I personally waive the requirement.</li>
+	<li>&nbsp;</li>
+</ul>
+
+<p><strong>Due Dates -&nbsp;&nbsp;&nbsp; </strong></p>
+
+<ul>
+	<li>All work must be submitted to <em>BLACKBOARD&nbsp;</em>Drop Box before the <strong><em>BEGINNING of class </em></strong>of the stated <strong><em>DUE DATE</em></strong>.&nbsp;</li>
+	<li>Each assignment, whether a single file or multiple files, must be <strong><em>Zipped</em></strong> and named as <strong><em>AssignmentNo_Author&rsquo;sLastName_DueDate.zip</em></strong>, e.g. A1_Smith_0826, before submission.</li>
+	<li><strong>No Late Work will be accepted</strong>.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Examinations - </strong></p>
+
+<ul>
+	<li>Exams will be closed-book.</li>
+	<li>Essays, true/false, and/or multiple choices may be part of the format used for evaluation.</li>
+	<li>Announced and unannounced quizzes will occur in this class.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Make-Up Policy - </strong></p>
+
+<ul>
+	<li><strong>No make up</strong> exam or assignment is allowed unless the student has prior approval from the instructor before the scheduled exam/assignment due date and time.&nbsp;</li>
+	<li>Emergencies do happen. If the emergency is not life-threatening, then the student must notify the instructor in advance of the class period when the work or exam was expected. Contact information has been provided at the beginning of the syllabus.</li>
+	<li>For emergencies, a doctor&rsquo;s written verification of illness or permission from the dean&#39;s office has to be provided before make up will be granted.</li>
+	<li>Job schedules, weddings, interviews, or any activity not sanctioned by the university do not comprise an emergency. Plan your social and employment activities around class, not vice versa.</li>
+	<li>If the situation does warrant a make-up exam or assignment, the content of the make-up exam will be in the spirit of the class-shared one, but the format may be different.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Coursework -</strong></p>
+
+<ul>
+	<li>Protect your generated data and coursework by making a backup copy. System failure or media failure is not an excuse for lost work when you have means of archiving this data at your disposal. As a prospective IT professional, failure to provide adequate security and archival backups may have devastating consequences if it occurs in an on-the-job scenario.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Technical Problems -</strong></p>
+
+<ul>
+	<li>Report any technical problems to the responsible parties immediately. If you are experiencing technical problems, please make the instructor aware.</li>
+</ul>
+</td></tr>
+					<tr>
+        		    	<td>Attendance Policies:</td>
+						<td><p><u>Attendance -</u></p>
+
+<ul>
+	<li>I expect students to attend and actively participate.</li>
+	<li>Three <strong>inadequately excused absences</strong> from class will result in a grade of F.</li>
+	<li>Attendance implies attention. The student will devote his/her entire attention to the subject matter being covered during the class period. The practice of Instant Messaging and use of cell phone or other device during class time is a breach of the attendance policy.</li>
+	<li>You need to be in class, and paying attention in order to know which assignment is to be undertaken as well as the specified due date for the assignment.<br />
+	<strong>You are not to be using the computers unless indicated by me.</strong></li>
+	<li>I expect students to be courteous to one another, listen attentively, exhibit mature, adult behaviours, to the class in general, to one another, and to me.</li>
+</ul>
+</td></tr>
+					 <tr>
+            
+            	<td>Academic Integrity:</td>
+            	
+           		<td><p>All submissions must be the result of each individual&#39;s effort, unless I authorize team effort.</p>
+
+<ul>
+	<li>Cheating on any examination, quiz, or assignment will be, in the <strong>first instance</strong>, cause for <strong>a failing grade (0)</strong> on the component. Upon <strong>a second occurrence, a failing grade for the course (F)</strong> will be given, at least.</li>
+	<li>Depending upon the severity of the situation, further action may be pursued.</li>
+	<li>This policy applies to the <strong>individual(s) receiving the information</strong> as well as to <strong>individual(s) supplying the information.</strong></li>
+	<li>Talking over your ideas and getting comments about your logic or your errors are <strong>not</strong> forms of cheating.</li>
+	<li>Having other individuals <strong>write</strong> or <strong>code sections</strong> of your work, <strong>copying</strong> and <strong>editing</strong> others&#39; work or code, or collaborating together to get a &quot;consensus&quot; product for an assignment <strong>are</strong> examples of cheating.</li>
+	<li>If ever you are in doubt as to whether I will perceive the assistance you give a student as an instance of cheating, then ask the instructor first about it.</li>
+</ul>
+
+<p>Please refer to Academic Integrity Policy section in the catalog for further details.</p>
+</td></tr>
+					<tr>
+            	<td>Course Calendar with Topics:</td>
+            	
+           		<td><table border="0" cellpadding="0" cellspacing="0" style="width:477px">
+	<tbody>
+		<tr>
+			<td style="height:17px; width:413px">Topics</td>
+			<td style="width:64px">Readings</td>
+		</tr>
+		<tr>
+			<td style="height:17px; width:413px">Syllabus, Introduction to Formal Methods</td>
+			<td>Ch 1</td>
+		</tr>
+		<tr>
+			<td style="height:17px; width:413px">Introduction to Logic and Set Theory</td>
+			<td>Ch 2</td>
+		</tr>
+		<tr>
+			<td style="height:17px; width:413px">First Specification</td>
+			<td>Ch 3</td>
+		</tr>
+		<tr>
+			<td style="height:17px; width:413px">Z Notation - Mathematical Language</td>
+			<td>Ch 4</td>
+		</tr>
+		<tr>
+			<td style="height:17px; width:413px">Z Notation - Relations and Functions</td>
+			<td>Ch 5</td>
+		</tr>
+		<tr>
+			<td style="height:17px; width:413px">Z Notation - Schema and Specification Structure</td>
+			<td>Ch 6</td>
+		</tr>
+		<tr>
+			<td style="height:17px">Midterm (Oct. 6 - tentatively)</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:17px">Fall Break (Oct. 15)</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:17px; width:413px">First Specification Revisited</td>
+			<td>Ch 7</td>
+		</tr>
+		<tr>
+			<td style="height:17px; width:413px">Formal Reasoning</td>
+			<td>Ch 9</td>
+		</tr>
+		<tr>
+			<td style="height:17px">Thanksgiving Break (Nov. 26)</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:17px; width:413px">From Theory to Practice</td>
+			<td>Ch 12</td>
+		</tr>
+		<tr>
+			<td style="height:17px; width:413px">Final Project Presentations</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:17px; width:413px">Final Exam - Tuesday, December 15, 2015 (8:30 AM - 10:30 AM)</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+</td>
+            </tr></table></body></html>

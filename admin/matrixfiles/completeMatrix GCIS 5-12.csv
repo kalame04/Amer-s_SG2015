@@ -1,0 +1,120 @@
+Course Outcomes vs. Program Outcomes Curriculum Matrix ,,,,,,,,,,,,,,,,,,,,,,,,
+Department: GCIS,,,,,,,,,,,,,,,,,,,,,,,,
+Spring 2012,,,,,,,,,,,,,,,,,,,,,,,,
+,,GCIS Program Wide Outcomes,,,,,,,,,Applied Computer Science-Specific Outcomes ,,,Information Systems-Specific Outcomes ,,,,Software Engineering-Specific Outcomes ,,,,Web Development-Specific Outcomes,,
+Course ID,Course Outcomes,"GCIS-1 Elicit, document, and analyze the requirements for software systems",GCIS-2 Design mainstream or advanced software systems from requirements. ,GCIS-3 Build mainstream or advanced software systems from designs. ,"GCIS-4 Utilize tools, languages, and environments for effective analysis, design, and development.",GCIS-5 Obtain a comprehension of the evolving technology and its ramifications. ,"GCIS-6 Identify, plan, and manage the schedule and risks for the activities involved in software-based systems development.","GCIS-7 Provide a research contribution or development of value to the profession, industry or society.",GCIS-8 Exhibit skills to support continued development and improvement of their professional abilities. ,"GCIS-9 Exhibit skills necessary to make ethical decisions as a moral and conscientious individual and as a citizen of their professions, their society, and their place of employment. ","ACS-1 Design, build, and use effective relational databases.",ACS-2 Develop and deploy digital image processing applications,ACS-3 Develop and deploy digital intelligent systems applications,IS-1 Identify and manipulate the knowledge-based components of systems in order to enable better decision- making or to provide stable representations.,IS-2 Design and build knowledge-based systems.,IS-2 Critique and manage the information resources of an organization. ,"IS-2 Design, build, and use effective relational databases.",Identify effective quality measures and organize activities to support software-based systems development.,"Evaluate alternative designs, and identify the best solution for a given set of software product and project constraints.",Critique and recommend design improvements for computer-human interfaces,"Identify change-management issues, and apply effective change-management processes to maintain quality software-based systems.","Design, build, and deploy database-driven web application.",Administer internet services platforms.,"Develop goal-oriented, secure, artistic, interactive web sites."
+,Total Courses: 18,2,7,8,8,2,2,1,4,2,4,2,1,3,2,,3,3,4,,2,2,,2
+GCIS_502_0A,,x,x,x,x,x,,,,,,,,,,,,,,,,,,x
+Adv Web Design,"1.Apply HTML, XHTML, CSS and Java Script
+",,x,,,x,,,,,,,,,,,,,,,,,,x
+,"2.Apply the concepts of User Centered Design to web development
+",,x,x,,,,,,,,,,,,,,,,,,,,x
+,"3.Translate user goals into effective website design using Design Patterns
+",,x,,x,,,,,,,,,,,,,,,,,,,x
+,"4.Describe the concept of usability testing and use it to test the effectiveness of website design
+",x,x,,,,,,,,,,,,,,,,,,,,,x
+GCIS_504_0A,,x,x,x,x,,,,,,,,,x,,,,x,x,,,,,
+Requirement Eng,"Define and apply techniques for minimizing ambiguity in natural language specifications for functional and non-functional requirements
+",x,,,,,,,,,,,,x,,,,,x,,,,,
+,"Select and successfully apply techniques for analyzing and validating requirements
+",x,x,,,,,,,,,,,,,,,,x,,,,,
+,"Apply requirements management techniques to trace requirements from elicitation through analysis and into specifications
+",x,,,,,,,,,,,,,,,,,,,,,,
+,"Construct and assess effective object models for requirements
+",x,,x,x,,,,,,,,,,,,,x,,,,,,
+,"Apply review techniques to ensure the quality of requirements engineering products
+",x,,,,,,,,,,,,,,,,x,,,,,,
+GCIS_511_0A,,,,,,,,,,x,x,,,,,,x,,,,,,,
+Adv Database Mgt Sys,Build and Execute Queries,,,,,,,,,x,x,,,,,,x,,,,,,,
+,Describe database concepts and models ,,,,,,,,,x,x,,,,,,x,,,,,,,
+,Construct a relational database,,,,,,,,,x,x,,,,,,x,,,,,,,
+GCIS_512_0A,,,,,,,,,,,,,,,,,,,,,,,,
+Object Oriented Modl,"Develop a suitable structural and behavioral models for software systems based on requirements.
+",,,,,,,,,,,,,,,,,,,,,,,
+,"Identify strengths and weaknesses of different structural and behavioral designs.
+",,,,,,,,,,,,,,,,,,,,,,,
+,"Utilize design models in the implementation of significant projects
+",,,,,,,,,,,,,,,,,,,,,,,
+,Identify and apply different types of design processes,,,,,,,,,,,,,,,,,,,,,,,
+GCIS_518_0A,,,x,x,,,,,,,,,,,,,,,x,,,,,
+Software Architecture,"Understand the structures and characteristics of major design patterns.    
+",,x,,,,,,,,,,,,,,,,x,,,,,
+,Recognize major architectural styles/design patterns in existing software.,,x,,,,,,,,,,,,,,,,x,,,,,
+,"Apply design principles(flexible, reusable ...etc) to software development.    
+",,x,,,,,,,,,,,,,,,,x,,,,,
+,"Understand how software architectures help achieving software quality attributes.    
+",,x,,,,,,,,,,,,,,,,x,,,,,
+,"Understand the ramifications, distinctions, and advantages between various architectures/design patterns.",,x,,,,,,,,,,,,,,,,x,,,,,
+,Recommend architecture/design pattern alternatives for a problem and select the most appropriate one,,x,,,,,,,,,,,,,,,,x,,,,,
+,Construct a software system conforming to specific architecture/design pattern speficication,,,x,,,,,,,,,,,,,,,,,,,,
+GCIS_531_0A,,,x,,x,,,,x,,,,,,,,,,,,,,,
+Distributed Prog,Understand the basic concepts and methods of inter-process communications.,,,,,,,,x,,,,,,,,,,,,,,,
+,Understand the basic concepts and methods of networking communications.,,,,,,,,x,,,,,,,,,,,,,,,
+,The ability to develop programs that use both inter-process and networking techniques to solve problems appropriate to the techniques.,,x,,x,,,,x,,,,,,,,,,,,,,,
+GCIS_563_0A,,,,,,,,,,,,,,,,,,,,,,,,
+Obj Ornt Prob Slv Java,"Learn the Java programming language, including syntax, idioms, patterns, and styles. ",,,,,,,,,,,,,,,,,,,,,,,
+,Learn the object-oriented methodology. ,,,,,,,,,,,,,,,,,,,,,,,
+,Learn the essentials of the Java class librar,,,,,,,,,,,,,,,,,,,,,,,
+,Learn simple UML ,,,,,,,,,,,,,,,,,,,,,,,
+GCIS_564_0A,,,x,x,,,,,,,,,,,,,,,,,,,,
+Data Structures,"Understand the basic data structures such as arrays, linked list, stacks, queues, and trees",,x,,,,,,,,,,,,,,,,,,,,,
+,Be able to implement sorting and searching algorithms,,,x,,,,,,,,,,,,,,,,,,,,
+,Understand how to measure time and space complexity of different algorithms,,x,,,,,,,,,,,,,,,,,,,,,
+GCIS_565_0A,,,x,x,x,,x,,x,,x,,,x,x,,x,,,,x,x,,
+Database Mgmt Sys,Describe database concepts and models,,,x,,,,,,,x,,,x,x,,x,,,,,x,,
+,Construct a relational database and program its application,,,,x,,,,x,,x,,,x,x,,x,,,,x,x,,
+,Identify and model the data needs of an organization,,x,,,,x,,,,x,,,x,,,,,,,x,x,,
+,Execute and build queries,,,,x,,,,x,,x,,,,x,,x,,,,x,x,,
+GCIS_567_0A,,,x,,,,,,,,,,,,,,,x,x,,,,,
+Sftwr Engineer UML,"Develop a suitable object-oriented design based on requirements.
+",,x,,,,,,,,,,,,,,,,,,,,,
+,Identify strengths and weaknesses of different software designs.,,x,,,,,,,,,,,,,,,,x,,,,,
+,Develop and apply appropriate tests for object-oriented software designs,,x,,,,,,,,,,,,,,,x,,,,,,
+,Appreciate the need for designing and testing in effective software development,,x,,,,,,,,,,,,,,,x,,,,,,
+GCIS_602_0A,,,,,,,,x,x,,,,,,,,,,,,,,,
+Prof Qlty Mod:Research,Explain the research process as it applies to the MS-CIS curriculum,,,,,,,,x,,,,,,,,,,,,,,,
+,Define research and scholarship approaches,,,,,,,x,,,,,,,,,,,,,,,,
+,Use information resources competently,,,,,,,x,,,,,,,,,,,,,,,,
+,Define a set of topics of personal interest and suitable for scholarly pursuit,,,,,,,x,,,,,,,,,,,,,,,,
+GCIS_603_0A,,,,,,,,,x,x,,,,,,,,,,,,,,
+Prof Qlty Mod:Prof Dev,To identify the dimensions and scenarios of professional behaviors,,,,,,,,,x,,,,,,,,,,,,,,
+,"To assess the professional quality of a peer, procedure, practice, or interaction",,,,,,,,x,x,,,,,,,,,,,,,,
+,To define appropriate alternative courses of actions for professional and ethical dilemmas,,,,,,,,,x,,,,,,,,,,,,,,
+,To self-reflect to identify areas requiring further improvement,,,,,,,,x,,,,,,,,,,,,,,,
+GCIS_611_0A,,,,,,,x,,,,,,,,,,,x,x,,x,,,
+Software Project Mgmt,"1.Develop a plan for team development of a software application
+",,,,,,x,,,,,,,,,,,,,,x,,,
+,"2.Compare and contrast appropriate best practices in information system development
+",,,,,,x,,,,,,,,,,,,x,,x,,,
+,"3.Apply risk management techniques to the development of a software project
+",,,,,,x,,,,,,,,,,,,x,,,,,
+,"4.Identify project and product metrics applicable to the successful delivery of a software project
+",,,,,,x,,,,,,,,,,,x,,,,,,
+,"5.Identify ethical practices of systems development
+",,,,,,x,,,,,,,,,,,x,,,,,,
+GCIS_622_0A,,,,x,x,,,,,,x,x,,,,,,,,,,x,,x
+Adv Web Programming,Understand the HTTP protocol and session handling.,,,x,,,,,,,x,,,,,,,,,,,,,
+,Apply n-tier architecture in data-driven web application development.,,,,x,,,,,,x,,,,,,,,,,,,,x
+,Understand and implement Model-View-Controller (MVC) patterns.,,,,x,,,,,,,x,,,,,,,,,,x,,
+,Build and maintain web applications using content-management technologies.,,,x,,,,,,,,x,,,,,,,,,,x,,x
+GCIS_635_0A,,,,x,x,,,,,,,,x,,,,,,,,,,,
+Computer Vision,•  Have a general knowledge of computational approaches and paradigms in computer vision,,,,x,,,,,,,,x,,,,,,,,,,,
+,•  Be knowledgeable about the basics of edge detection algorithms & texture modeling ,,,x,,,,,,,,,x,,,,,,,,,,,
+,•  Be knowledgeable about the fundamental problems and importance of segmentation and grouping,,,x,x,,,,,,,,x,,,,,,,,,,,
+,•  Have some experience with research in computer vision,,,,x,,,,,,,,x,,,,,,,,,,,
+GCIS_644_0A,,,,,x,x,,,,,x,,,x,x,,x,,,,,,,
+Knowldg-Based Systm,To build a basic knowledge-based system (KBS),,,,,x,,,,,x,,,,x,,,,,,,,,
+,To specify and to design a KBS,,,,x,,,,,,,,,x,,,,,,,,,,
+,To identify situations benefiting from a KBS ,,,,,x,,,,,,,,,,,x,,,,,,,
+,To develop a state of awareness about the aspects  and components of KBS ,,,,x,,,,,,,,,,,,x,,,,,,,
+GCIS_645_0A,,,,x,x,,,,,,,x,,,,,,,,,,,,
+Intelligent Sys Technologies,•  Explain different uses of intelligent systems in organizations ,,,x,,,,,,,,x,,,,,,,,,,,,
+,•  Identify the steps involved in developing an intelligent system using computational techniques,,,,x,,,,,,,x,,,,,,,,,,,,
+,•  Use current data mining techniques in problem solving,,,x,,,,,,,,x,,,,,,,,,,,,
+,•  Use genetic algorithm and neural network  techniques for intelligent systems design,,,,x,,,,,,,x,,,,,,,,,,,,
+GENG_624_0A,,,,,,,,,,,,,,,,,,,,,,,,
+Project Management,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Generated by EvalTools® on 2012-06-01,,,,,,,,,,,,,,,,,,,,,,,
+,www.MAKTEAM.com,,,,,,,,,,,,,,,,,,,,,,,
